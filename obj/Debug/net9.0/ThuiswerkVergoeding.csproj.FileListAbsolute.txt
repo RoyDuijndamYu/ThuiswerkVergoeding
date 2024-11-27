@@ -1,0 +1,15 @@
+d:\C#\ThuiswerkVergoeding\bin\Debug\net9.0\ThuiswerkVergoeding.exe
+d:\C#\ThuiswerkVergoeding\bin\Debug\net9.0\ThuiswerkVergoeding.deps.json
+d:\C#\ThuiswerkVergoeding\bin\Debug\net9.0\ThuiswerkVergoeding.runtimeconfig.json
+d:\C#\ThuiswerkVergoeding\bin\Debug\net9.0\ThuiswerkVergoeding.dll
+d:\C#\ThuiswerkVergoeding\bin\Debug\net9.0\ThuiswerkVergoeding.pdb
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\ThuiswerkVergoeding.GeneratedMSBuildEditorConfig.editorconfig
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\ThuiswerkVergoeding.AssemblyInfoInputs.cache
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\ThuiswerkVergoeding.AssemblyInfo.cs
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\ThuiswerkVergoeding.csproj.CoreCompileInputs.cache
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\ThuiswerkVergoeding.sourcelink.json
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\ThuiswerkVergoeding.dll
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\refint\ThuiswerkVergoeding.dll
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\ThuiswerkVergoeding.pdb
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\ThuiswerkVergoeding.genruntimeconfig.cache
+d:\C#\ThuiswerkVergoeding\obj\Debug\net9.0\ref\ThuiswerkVergoeding.dll
